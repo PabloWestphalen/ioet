@@ -1,0 +1,22 @@
+{
+	"name": "ioet-coding-exercise",
+	"version": "1.0.0",
+	"description": "Pablo Westphalen's implementation of ioet's JavaScript Coding Exercise",
+	"main": "index.js",
+	"scripts": {
+		"start": "node payroll-calculator",
+		"sample1": "node payroll-calculator sample1.txt",
+		"sample2": "node payroll-calculator sample2.txt",
+		"test": "jest"
+	},
+	"keywords": [
+		"iot",
+		"interview",
+		"node"
+	],
+	"author": "Pablo Westphalen",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^28.1.0"
+	}
+}
